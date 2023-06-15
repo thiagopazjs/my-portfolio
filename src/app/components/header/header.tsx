@@ -9,8 +9,8 @@ export function Header() {
         <h2>Software Developer</h2>
       </div>
       <Image
-        src="/vercel.svg"
-        alt="Vercel Logo"
+        src="/eu.jpeg"
+        alt="me logo"
         width={100}
         height={24}
         priority
